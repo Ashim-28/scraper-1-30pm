@@ -16,6 +16,11 @@
 # git add .
 # git commit -m "Your message"
 
+#To do regularly 
+#Change the code
+#Git add .
+#Git commit -m “your message”
+#Git push
 
 import requests
 from bs4 import BeautifulSoup
