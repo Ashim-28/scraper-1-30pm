@@ -22,11 +22,10 @@
 #Git commit -m “your message”
 #Git push
 
+import json
 import requests
 from bs4 import BeautifulSoup
-import json
 import csv
-
 
 url = "http://books.toscrape.com/"
 
