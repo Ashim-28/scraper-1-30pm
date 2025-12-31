@@ -3,10 +3,18 @@
 #python -m pip install beautifulsoup4
 # => parse html
 
+
+#First time
 # Install git 
 # Go to git bash
 # Git config –global user.name “your name”
 # Git config –global user.email “your email”
+#Create repository in github
+#Copy and paste git code from github
+
+#Always
+# git add .
+# git commit -m "Your message"
 
 
 import requests
